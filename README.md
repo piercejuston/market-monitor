@@ -1,5 +1,7 @@
 # Prediction Market Monitor
 
+![Market Monitor Demo](demo.gif)
+
 Real-time market monitoring dashboard for cross-platform prediction market
 spreads, built as part of a longer-running project scanning **Kalshi** and
 **Polymarket's** overlapping 15-minute crypto contracts (BTC, ETH, SOL, XRP).
